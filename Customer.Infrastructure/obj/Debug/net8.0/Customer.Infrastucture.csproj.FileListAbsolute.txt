@@ -1,0 +1,17 @@
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\bin\Debug\net8.0\Customer.Infrastucture.deps.json
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\bin\Debug\net8.0\Customer.Infrastucture.runtimeconfig.json
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\bin\Debug\net8.0\Customer.Infrastucture.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\bin\Debug\net8.0\Customer.Infrastucture.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\bin\Debug\net8.0\Customer.Domain.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\bin\Debug\net8.0\Customer.Domain.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastucture.AssemblyInfo.cs
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.9709E307.Up2Date
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastucture.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\refint\Customer.Infrastucture.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastucture.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastucture.genruntimeconfig.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\ref\Customer.Infrastucture.dll

@@ -1,0 +1,17 @@
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\bin\Debug\net8.0\Customer.Aplication.deps.json
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\bin\Debug\net8.0\Customer.Aplication.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\bin\Debug\net8.0\Customer.Aplication.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\bin\Debug\net8.0\Customer.Domain.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\bin\Debug\net8.0\Customer.Infrastucture.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\bin\Debug\net8.0\Customer.Domain.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\bin\Debug\net8.0\Customer.Infrastucture.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\Customer.Aplication.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\Customer.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\Customer.Aplication.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\Customer.Aplication.AssemblyInfo.cs
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\Customer.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\Customer.4D62958E.Up2Date
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\Customer.Aplication.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\refint\Customer.Aplication.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\Customer.Aplication.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\ref\Customer.Aplication.dll

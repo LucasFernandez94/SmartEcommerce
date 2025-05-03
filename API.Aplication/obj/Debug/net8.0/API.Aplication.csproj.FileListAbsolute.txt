@@ -1,0 +1,17 @@
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\bin\Debug\net8.0\API.Aplication.deps.json
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\bin\Debug\net8.0\API.Aplication.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\bin\Debug\net8.0\API.Aplication.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\bin\Debug\net8.0\API.Domain.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\bin\Debug\net8.0\API.Infrastucture.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\bin\Debug\net8.0\API.Domain.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\bin\Debug\net8.0\API.Infrastucture.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\obj\Debug\net8.0\API.Aplication.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\obj\Debug\net8.0\API.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\obj\Debug\net8.0\API.Aplication.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\obj\Debug\net8.0\API.Aplication.AssemblyInfo.cs
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\obj\Debug\net8.0\API.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\obj\Debug\net8.0\API.Apli.77FFE452.Up2Date
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\obj\Debug\net8.0\API.Aplication.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\obj\Debug\net8.0\refint\API.Aplication.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\obj\Debug\net8.0\API.Aplication.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Aplication\obj\Debug\net8.0\ref\API.Aplication.dll

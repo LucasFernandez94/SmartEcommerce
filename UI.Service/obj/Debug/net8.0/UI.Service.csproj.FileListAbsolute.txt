@@ -1,0 +1,12 @@
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\bin\Debug\net8.0\UI.Service.deps.json
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\bin\Debug\net8.0\UI.Service.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\bin\Debug\net8.0\UI.Service.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\obj\Debug\net8.0\UI.Service.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\obj\Debug\net8.0\UI.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\obj\Debug\net8.0\UI.Service.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\obj\Debug\net8.0\UI.Service.AssemblyInfo.cs
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\obj\Debug\net8.0\UI.Service.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\obj\Debug\net8.0\UI.Service.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\obj\Debug\net8.0\refint\UI.Service.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\obj\Debug\net8.0\UI.Service.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\UI.Service\obj\Debug\net8.0\ref\UI.Service.dll

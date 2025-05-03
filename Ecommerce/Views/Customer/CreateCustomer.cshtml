@@ -1,0 +1,20 @@
+﻿<div class="container" style="width:400px">
+
+    <!-- FORM: Crear Usuario -->
+    <h3>Crear Usuario</h3>
+    <form asp-action="CreateUser" method="post" class="mb-5">
+        <div class="mb-3">
+            <label for="UserName" class="form-label">Nombre</label>
+            <input type="text" class="form-control" id="UserName" name="Name" required />
+        </div>
+        <div class="mb-3">
+            <label for="UserEmail" class="form-label">Email</label>
+            <input type="email" class="form-control" id="UserEmail" name="Email" required />
+        </div>
+        <div class="mb-3">
+            <label for="UserAddres" class="form-label">Dirección</label>
+            <input type="text" class="form-control" id="UserAddres" name="Addres" required />
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:100%">Crear</button>
+    </form>
+</div>

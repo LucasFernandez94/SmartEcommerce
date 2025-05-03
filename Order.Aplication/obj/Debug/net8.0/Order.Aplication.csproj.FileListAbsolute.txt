@@ -1,0 +1,17 @@
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\bin\Debug\net8.0\Order.Aplication.deps.json
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\bin\Debug\net8.0\Order.Aplication.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\bin\Debug\net8.0\Order.Aplication.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\bin\Debug\net8.0\Order.Infrastructure.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\bin\Debug\net8.0\Order.Infrastructure.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\obj\Debug\net8.0\Order.Aplication.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\obj\Debug\net8.0\Order.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\obj\Debug\net8.0\Order.Aplication.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\obj\Debug\net8.0\Order.Aplication.AssemblyInfo.cs
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\obj\Debug\net8.0\Order.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\obj\Debug\net8.0\Order.Ap.717B7587.Up2Date
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\obj\Debug\net8.0\Order.Aplication.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\obj\Debug\net8.0\refint\Order.Aplication.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\obj\Debug\net8.0\Order.Aplication.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Order.Aplication\obj\Debug\net8.0\ref\Order.Aplication.dll

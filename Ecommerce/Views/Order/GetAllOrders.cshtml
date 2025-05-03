@@ -1,0 +1,60 @@
+﻿@model List<UI.Service.DTO.OrderDTO>
+
+@{
+    ViewData["Title"] = "Lista de Órdenes";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- FORMULARIO DE BÚSQUEDA -->
+<form asp-action="GetOrderForUser" method="post" class="mb-4" style="width: 400px;">
+    <div class="mb-3">
+        <label class="form-label">ID del Usuario</label>
+        <input type="number" name="id" class="form-control" placeholder="Ingrese el ID" required />
+    </div>
+    <button type="submit" class="btn btn-primary" style="width:100%;">Buscar Órdenes</button>
+</form>
+
+<!-- MENSAJE SI NO HAY RESULTADOS -->
+@if (Model == null)
+{
+    <div class="alert alert-info">Ingrese un ID de cliente para ver las órdenes.</div>
+}
+else if (!Model.Any())
+{
+    <div class="alert alert-warning">No se encontraron órdenes para este cliente.</div>
+}
+else
+{
+    <!-- TABLA SOLO SI HAY RESULTADOS -->
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID Orden</th>
+                <th>Fecha de Orden</th>
+                <th>Cliente</th>
+                <th>Total de Compra</th>
+                <th>Productos</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.Id</td>
+                    <td>@order.OrderDate.ToString("dd/MM/yyyy")</td>
+                    <td>@order.Customer.Name</td>
+                    <td>@order.PurchaseTotal.ToString("C")</td>
+                    <td>
+                        <ul>
+                            @foreach (var product in order.Products)
+                            {
+                                <li>@product.Name - @product.Description - @product.Price.ToString("C")</li>
+                            }
+                        </ul>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

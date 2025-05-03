@@ -1,0 +1,17 @@
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\bin\Debug\net8.0\API.Infrastucture.deps.json
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\bin\Debug\net8.0\API.Infrastucture.runtimeconfig.json
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\bin\Debug\net8.0\API.Infrastucture.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\bin\Debug\net8.0\API.Infrastucture.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\bin\Debug\net8.0\API.Domain.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\bin\Debug\net8.0\API.Domain.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\obj\Debug\net8.0\API.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\obj\Debug\net8.0\API.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\obj\Debug\net8.0\API.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\obj\Debug\net8.0\API.Infrastucture.AssemblyInfo.cs
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\obj\Debug\net8.0\API.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\obj\Debug\net8.0\API.Infr.B2D37AF2.Up2Date
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\obj\Debug\net8.0\API.Infrastucture.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\obj\Debug\net8.0\refint\API.Infrastucture.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\obj\Debug\net8.0\API.Infrastucture.pdb
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\obj\Debug\net8.0\API.Infrastucture.genruntimeconfig.cache
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\API.Infrastucture\obj\Debug\net8.0\ref\API.Infrastucture.dll

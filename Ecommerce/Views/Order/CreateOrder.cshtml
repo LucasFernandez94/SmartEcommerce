@@ -1,0 +1,118 @@
+﻿@model UI.Service.DTO.OrderDTO
+@using System.Globalization
+
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+@if (Model != null && @Model.Customer != null)
+{
+    <div class="card mt-4">
+        <div class="card-body">
+            <h4 class="card-title text-success">Orden creada con éxito</h4>
+            <p><strong>Fecha:</strong> @Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</p>
+            <p><strong>Cliente:</strong> @Model.Customer?.Name</p>
+            <p><strong>Email:</strong> @Model.Customer?.Email</p>
+            <p><strong>Dirección:</strong> @Model.Customer?.Addres</p>
+            <p><strong>Total:</strong> $@Model.PurchaseTotal</p>
+
+            <h5 class="mt-4">Productos</h5>
+            <ul class="list-group">
+                @foreach (var producto in Model.Products)
+                {
+                    if (@producto.Stock > 0)
+                    {
+                        <li class="list-group-item">
+                            <strong>@producto.Name</strong> - $@producto.Price × @producto.Stock
+                            <br />
+                            <small>@producto.Description</small>
+                        </li>
+                    }                    
+                }
+            </ul>
+        </div>
+    </div>
+}
+
+<div class="container" style="width:400px">
+    <h3>Crear Orden</h3>
+    <form asp-action="Buy" method="post">
+        <div class="mb-3">
+            <label class="form-label">Fecha de Orden</label>
+            <input type="datetime-local" class="form-control" name="OrderDate" required />
+        </div>
+
+        <h5>Datos del Cliente</h5>
+        <div class="mb-3">
+            <label class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="Customer.Name" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <input type="email" class="form-control" name="Customer.Email" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Dirección</label>
+            <input type="text" class="form-control" name="Customer.Addres" required />
+        </div>
+
+        <h5>Productos</h5>
+        <div id="productos-container">
+            @for (int i = 0; i < Model.Products.Count; i++)
+            {
+                <input type="hidden" name="Products[@i].Id" value="@Model.Products[i].Id" />
+                <input type="hidden" name="Products[@i].Name" value="@Model.Products[i].Name" />
+                <input type="hidden" name="Products[@i].Description" value="@Model.Products[i].Description" />
+                <input type="hidden" name="Products[@i].Price" value="@Model.Products[i].Price.ToString(CultureInfo.InvariantCulture)" />
+
+                <div class="producto" data-index="@i">
+                    <div class="card mb-3">
+                        <div class="card-body">
+                            <h5 class="card-title">@Model.Products[i].Name</h5>
+                            <p class="card-text">@Model.Products[i].Description</p>
+                            <p class="card-text"><strong>Precio:</strong> $@Model.Products[i].Price.ToString("0.##", CultureInfo.InvariantCulture)</p>
+                            <p class="card-text"><strong>Stock:</strong> @Model.Products[i].Stock</p>
+                            <div class="mb-3">
+                                <label class="form-label">Cantidad</label>
+                                <input type="number" class="form-control cantidad" name="Products[@i].Stock" value="0" data-precio="@Model.Products[i].Price" onchange="calcularTotal()" required />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Total de Compra</label>
+            <input type="number" step="0.01" class="form-control" id="PurchaseTotal" name="PurchaseTotal" readonly />
+        </div>
+
+        <button type="submit" class="btn btn-warning" style="width:100%">Crear Orden</button>
+    </form>
+</div>
+
+<script>
+    // Esta función calculará el total de la compra sumando el precio por la cantidad de cada producto
+    function calcularTotal() {
+        let total = 0;
+        const productos = document.querySelectorAll('.producto');
+
+        productos.forEach(producto => {
+            const cantidadInput = producto.querySelector('.cantidad');
+            const precio = parseFloat(cantidadInput.getAttribute('data-precio')) || 0;
+            const cantidad = parseInt(cantidadInput.value) || 0;
+            total += precio * cantidad;
+        });
+
+        // Actualizar el campo Total de Compra
+        document.getElementById('PurchaseTotal').value = total.toFixed(2);
+    }
+
+    window.onload = () => {
+        calcularTotal(); // Llamamos a la función para calcular el total cuando la página se cargue
+    };
+</script>
