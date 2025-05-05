@@ -4,9 +4,15 @@
     ViewData["Title"] = "Lista de Órdenes";
 }
 
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
 <h2>@ViewData["Title"]</h2>
 
-<!-- FORMULARIO DE BÚSQUEDA -->
 <form asp-action="GetOrderForUser" method="post" class="mb-4" style="width: 400px;">
     <div class="mb-3">
         <label class="form-label">ID del Usuario</label>
@@ -15,7 +21,6 @@
     <button type="submit" class="btn btn-primary" style="width:100%;">Buscar Órdenes</button>
 </form>
 
-<!-- MENSAJE SI NO HAY RESULTADOS -->
 @if (Model == null)
 {
     <div class="alert alert-info">Ingrese un ID de cliente para ver las órdenes.</div>
@@ -26,7 +31,6 @@ else if (!Model.Any())
 }
 else
 {
-    <!-- TABLA SOLO SI HAY RESULTADOS -->
     <table class="table table-striped">
         <thead>
             <tr>

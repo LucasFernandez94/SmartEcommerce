@@ -34,6 +34,7 @@ namespace Ecommerce.Controllers
         {
             try
             {
+                _log.LogInformation("GetOrderForUser: Obteninedo ordenes historicas.");
                 List<OrderDTO> orders = await _service.GetAllAsync();
                 if (orders == null)
                 {
@@ -41,13 +42,13 @@ namespace Ecommerce.Controllers
                 }
 
                 List<OrderDTO> response = _cusService.AddCustomerById(id, orders);
-                _log.LogInformation("Ecommerce.GetOrderForUser: Orden obtenida con exito.");
+                _log.LogInformation("Ecommerce.GetOrderForUser: Ordenes obtenidas con exito.");
                 return View("GetAllOrders", response);
             }
             catch (Exception ex)
             {
-                _log.LogError("Ecommerce.GetOrderForUser: Error al realizar la orden.");
-                ViewData["ErrorMessage"] = ex.Message;
+                _log.LogError(string.Format("Ecommerce.GetOrderForUser: Error al realizar la orden. con exepción: {0}", ex.Message));
+                ViewBag.Message = "Orden creada correctamente";
                 return View(new List<OrderDTO>());
             }
         }

@@ -53,6 +53,10 @@ namespace Order.API.Controllers
         {
             try
             {
+                if (id <= 0)
+                {
+                    return BadRequest("El id no puede ser menor o igual a 0.");
+                }
                 var product = await _service.GetByIdAsync(id);
                 if (product == null)
                     return NotFound();
@@ -60,7 +64,6 @@ namespace Order.API.Controllers
                 _logger.LogInformation(string.Format("OrderContoller: GetOrderById(): Obtenido con exito con los datos: {0}", JsonConvert.SerializeObject(product, Formatting.None)));
 
                 return Ok(product);
-
             }
             catch (Exception ex)
             {
@@ -127,6 +130,10 @@ namespace Order.API.Controllers
         {
             try
             {
+                string message = string.Empty;
+                if (!order.IsValid(out message)) {
+                    return BadRequest(message);
+                }
                 Order.Domain.Entity.Order existingProduct = await _service.GetByIdAsync(order.Id);
                 if (existingProduct == null)
                     return NotFound("La orden no existe.");
@@ -145,7 +152,7 @@ namespace Order.API.Controllers
             {
                 _logger.LogError(string.Format("OrderContoller: UpdateOrder(): Error inesperado: {0}", ex));
 
-                return BadRequest(ex.Message);
+                return NotFound(ex.Message);
             }
         }
 
@@ -155,6 +162,10 @@ namespace Order.API.Controllers
         {
             try
             {
+                if (id <= 0) {
+                    return BadRequest("El id no puede ser 0 o menor");
+                }
+
                 var existingProduct = await _service.GetByIdAsync(id);
                 if (existingProduct == null)
                     return NotFound();
@@ -166,7 +177,7 @@ namespace Order.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(string.Format("OrderContoller: DeleteOrder(): Error inesperado: {0}", ex));
-                return BadRequest(ex.Message);
+                return NotFound(ex.Message);
             }            
         }
     }

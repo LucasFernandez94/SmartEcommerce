@@ -49,6 +49,10 @@ namespace API.Controllers
         {
             try
             {
+                if (id <= 0)
+                {
+                    return BadRequest("El id no puede ser menor o igual a 0.");
+                }
                 var product = await _service.GetByIdAsync(id);
                 if (product == null)
                     return NotFound();
@@ -71,6 +75,12 @@ namespace API.Controllers
         {
             try
             {
+                string message = string.Empty;
+                if (!product.IsValid(out message))
+                {
+                    _logger.LogInformation("El modelo recibido es invalido");
+                    return BadRequest(message);
+                }
                 var prod = _service.AddProductEntitie(product);
                 await _service.AddAsync(prod);
                 _logger.LogInformation(string.Format("ProductController: AddProduct(): Obtenido con exito con los datos: {0}", JsonConvert.SerializeObject(prod, Formatting.None)));
@@ -89,6 +99,13 @@ namespace API.Controllers
         {
             try
             {
+                string message = string.Empty;
+                if (!product.IsValid(out message))
+                {
+                    _logger.LogInformation("El modelo es invalido.");
+
+                    return BadRequest(message);
+                }
                 Product existingProduct = await _service.GetByIdAsync(product.Id);
                 if (existingProduct == null)
                     return NotFound();
@@ -105,7 +122,7 @@ namespace API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(string.Format("ProductController: AddProduct(): Error inesperado: {0}", ex));
-                return BadRequest(ex.Message);
+                return NotFound(ex.Message);
             }
         }
 
@@ -115,6 +132,10 @@ namespace API.Controllers
         {
             try
             {
+                if (id <= 0)
+                {
+                    return BadRequest("El id no puede ser menor o igual a 0.");
+                }
                 var existingProduct = await _service.GetByIdAsync(id);
                 if (existingProduct == null)
                     return NotFound();
@@ -127,7 +148,7 @@ namespace API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(string.Format("ProductController: AddProduct(): Error inesperado: {0}", ex));
-                return BadRequest(ex.Message);
+                return NotFound(ex.Message);
             }           
         }
     }

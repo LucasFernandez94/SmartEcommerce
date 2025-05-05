@@ -15,3 +15,4 @@ C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasF
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastucture.pdb
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastucture.genruntimeconfig.cache
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\ref\Customer.Infrastucture.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastucture.sourcelink.json

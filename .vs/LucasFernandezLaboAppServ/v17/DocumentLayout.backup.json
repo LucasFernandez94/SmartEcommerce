@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78115615-E2CF-45EB-96B0-E148E6827E04}|Ecommerce\\Ecommerce.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78115615-E2CF-45EB-96B0-E148E6827E04}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C61B6812-2942-4186-90FB-36CB4FF60F2D}|Customer.API\\Customer.API.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\customer.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61B6812-2942-4186-90FB-36CB4FF60F2D}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78115615-E2CF-45EB-96B0-E148E6827E04}|Ecommerce\\Ecommerce.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\ecommerce\\views\\order\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78115615-E2CF-45EB-96B0-E148E6827E04}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\order\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F995BB3A-2356-46A9-804B-8FA9A4CA40F5}|UI.Service\\UI.Service.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\ui.service\\service\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F995BB3A-2356-46A9-804B-8FA9A4CA40F5}|UI.Service\\UI.Service.csproj|solutionrelative:ui.service\\service\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78115615-E2CF-45EB-96B0-E148E6827E04}|Ecommerce\\Ecommerce.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\ecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78115615-E2CF-45EB-96B0-E148E6827E04}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78115615-E2CF-45EB-96B0-E148E6827E04}|Ecommerce\\Ecommerce.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\ecommerce\\views\\order\\getallorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78115615-E2CF-45EB-96B0-E148E6827E04}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\order\\getallorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0FAE4356-42AC-4D81-89A5-0A503AE3A244}|Customer.Aplication\\Customer.Aplication.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\customer.aplication\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAE4356-42AC-4D81-89A5-0A503AE3A244}|Customer.Aplication\\Customer.Aplication.csproj|solutionrelative:customer.aplication\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26270A0C-AF2C-4A81-B8C1-845BD96EE81A}|Order.API\\Order.API.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\order.api\\controllers\\ordercontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26270A0C-AF2C-4A81-B8C1-845BD96EE81A}|Order.API\\Order.API.csproj|solutionrelative:order.api\\controllers\\ordercontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78115615-E2CF-45EB-96B0-E148E6827E04}|Ecommerce\\Ecommerce.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78115615-E2CF-45EB-96B0-E148E6827E04}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3F1B8A0-97AD-4ACD-9150-1574A312938F}|Consumer.Domain\\Customer.Domain.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\consumer.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F1B8A0-97AD-4ACD-9150-1574A312938F}|Consumer.Domain\\Customer.Domain.csproj|solutionrelative:consumer.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D468E27-5616-405F-9202-636445A0F9D5}|API\\API.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D468E27-5616-405F-9202-636445A0F9D5}|API\\API.csproj|solutionrelative:api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FC05C-9D96-44EE-AFF3-D34E124D5AD7}|Order.Domain\\Order.Domain.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\order.domain\\entity\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FC05C-9D96-44EE-AFF3-D34E124D5AD7}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\entity\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FC05C-9D96-44EE-AFF3-D34E124D5AD7}|Order.Domain\\Order.Domain.csproj|c:\\users\\lucas\\documents\\personal\\mio\\istea\\aplicaciones cliente servidor\\lucasfernandezlaboappserv\\order.domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FC05C-9D96-44EE-AFF3-D34E124D5AD7}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,73 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 17,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Consumer.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Consumer.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Consumer.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Consumer.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T23:10:34.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Customer.Aplication\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "Customer.Aplication\\Models\\CustomerModel.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Customer.Aplication\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "Customer.Aplication\\Models\\CustomerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T23:07:21.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwIEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T23:03:12.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Order.Domain\\Entity\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Entity\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Order.Domain\\Entity\\OrderProduct.cs",
+              "RelativeToolTip": "Order.Domain\\Entity\\OrderProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:57:37.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Order.Domain\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Entity\\Order.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Order.Domain\\Entity\\Order.cs",
+              "RelativeToolTip": "Order.Domain\\Entity\\Order.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:54:32.724Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -90,93 +155,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\UI.Service\\Service\\Product\\ProductService.cs",
-              "RelativeDocumentMoniker": "UI.Service\\Service\\Product\\ProductService.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\UI.Service\\Service\\Product\\ProductService.cs",
-              "RelativeToolTip": "UI.Service\\Service\\Product\\ProductService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wCgAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Customer.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Customer.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Customer.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Customer.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T05:26:29.07Z",
+              "WhenOpened": "2025-05-05T21:54:23.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetAllOrders.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Ecommerce\\Views\\Order\\GetAllOrders.cshtml",
-              "RelativeDocumentMoniker": "Ecommerce\\Views\\Order\\GetAllOrders.cshtml",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Ecommerce\\Views\\Order\\GetAllOrders.cshtml",
-              "RelativeToolTip": "Ecommerce\\Views\\Order\\GetAllOrders.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T05:07:43.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Ecommerce\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Ecommerce\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Ecommerce\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T03:36:01.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateOrder.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Ecommerce\\Views\\Order\\CreateOrder.cshtml",
-              "RelativeDocumentMoniker": "Ecommerce\\Views\\Order\\CreateOrder.cshtml",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Ecommerce\\Views\\Order\\CreateOrder.cshtml",
-              "RelativeToolTip": "Ecommerce\\Views\\Order\\CreateOrder.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T03:19:19.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "OrderContoller.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Order.API\\Controllers\\OrderContoller.cs",
               "RelativeDocumentMoniker": "Order.API\\Controllers\\OrderContoller.cs",
               "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Order.API\\Controllers\\OrderContoller.cs",
               "RelativeToolTip": "Order.API\\Controllers\\OrderContoller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwKsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T03:01:39.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Ecommerce\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Ecommerce\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Ecommerce\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAWwBQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:54:02.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Ecommerce\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\Personal\\Mio\\Istea\\Aplicaciones Cliente servidor\\LucasFernandezLaboAppServ\\Ecommerce\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Ecommerce\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T01:21:39.397Z",
+              "WhenOpened": "2025-05-05T22:54:13.982Z",
               "EditorCaption": ""
             }
           ]

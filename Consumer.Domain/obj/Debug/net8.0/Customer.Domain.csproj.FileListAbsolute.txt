@@ -10,3 +10,4 @@ C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasF
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Consumer.Domain\obj\Debug\net8.0\refint\Customer.Domain.dll
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Consumer.Domain\obj\Debug\net8.0\Customer.Domain.pdb
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Consumer.Domain\obj\Debug\net8.0\ref\Customer.Domain.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Consumer.Domain\obj\Debug\net8.0\Customer.Domain.sourcelink.json

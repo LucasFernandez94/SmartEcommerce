@@ -37,3 +37,4 @@ C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasF
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Ecommerce\obj\Debug\net8.0\Ecommerce.pdb
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Ecommerce\obj\Debug\net8.0\Ecommerce.genruntimeconfig.cache
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Ecommerce\obj\Debug\net8.0\ref\Ecommerce.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Ecommerce\obj\Debug\net8.0\Ecommerce.sourcelink.json

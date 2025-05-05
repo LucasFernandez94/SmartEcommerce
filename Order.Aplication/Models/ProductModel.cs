@@ -14,7 +14,7 @@
 
             if (String.IsNullOrEmpty(this.Name)) { message = "EL nombre del producto el obligatorio."; return false; }
             if (String.IsNullOrEmpty(this.Description)) { message = "La descripción del producto el obligatorio."; return false; }
-            if (this.Price <= 0 ) { message = "El prcio del producto el obligatorio."; return false; }
+            if (this.Price < 0 ) { message = "El prcio del producto el obligatorio."; return false; }
 
             return true;
         }

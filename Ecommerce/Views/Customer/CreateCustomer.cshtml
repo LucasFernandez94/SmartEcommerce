@@ -1,4 +1,11 @@
-﻿<div class="container" style="width:400px">
+﻿@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+<div class="container" style="width:400px">
 
     <!-- FORM: Crear Usuario -->
     <h3>Crear Usuario</h3>

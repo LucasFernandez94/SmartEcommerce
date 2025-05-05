@@ -15,3 +15,4 @@ C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasF
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\refint\Customer.Aplication.dll
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\Customer.Aplication.pdb
 C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\ref\Customer.Aplication.dll
+C:\Users\lucas\Documents\Personal\Mio\Istea\Aplicaciones Cliente servidor\LucasFernandezLaboAppServ\Customer.Aplication\obj\Debug\net8.0\Customer.Aplication.sourcelink.json

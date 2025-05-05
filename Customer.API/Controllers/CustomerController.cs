@@ -46,6 +46,9 @@ namespace Customer.API.Controllers
         {
             try
             {
+                if (id <= 0) {
+                    return BadRequest("El od no puede ser menor o igual a 0.");
+                }
                 var customers = await _service.GetByIdAsync(id);
                 if (customers == null)
                     return NotFound();
@@ -67,6 +70,10 @@ namespace Customer.API.Controllers
         {
             try
             {
+                string message = string.Empty;
+                if (customers.IsValid(out message)) {
+                    return BadRequest(message);
+                }
                 var cus = _service.AddProductEntitie(customers);
                 await _service.AddAsync(cus);
 
@@ -86,6 +93,10 @@ namespace Customer.API.Controllers
         {
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState.ErrorCount);
+                }
                 Customer.Domain.Entities.Customer existingCustomer = await _service.GetByIdAsync(customers.Id);
                 if (existingCustomer == null)
                     return NotFound();
@@ -113,6 +124,9 @@ namespace Customer.API.Controllers
         {
             try
             {
+                if (id <= 0) {
+                    return BadRequest("El id no puede ser menor o igual a 0.");
+                }
                 var existingCustomer = await _service.GetByIdAsync(id);
                 if (existingCustomer == null)
                     return NotFound();
